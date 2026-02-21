@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\FlighBooking.Domain\FlighBooking.Domain.csproj" />
+    <ProjectReference Include="..\FlighBooking.Application\FlighBooking.Application.csproj" />
+    <ProjectReference Include="..\FlighBooking.Infrastructure\FlighBooking.Infrastructure.csproj" />
+    <ProjectReference Include="..\FlighBooking.Api\FlighBooking.Api.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
