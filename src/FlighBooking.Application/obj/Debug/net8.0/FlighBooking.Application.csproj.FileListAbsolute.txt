@@ -1,0 +1,16 @@
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlighBooking.Application\bin\Debug\net8.0\FlighBooking.Application.deps.json
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlighBooking.Application\bin\Debug\net8.0\FlighBooking.Application.dll
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlighBooking.Application\bin\Debug\net8.0\FlighBooking.Application.pdb
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlighBooking.Application\bin\Debug\net8.0\FlighBooking.Domain.dll
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlighBooking.Application\bin\Debug\net8.0\FlighBooking.Domain.pdb
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlighBooking.Application\obj\Debug\net8.0\FlighBooking.Application.csproj.AssemblyReference.cache
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlighBooking.Application\obj\Debug\net8.0\FlighBooking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlighBooking.Application\obj\Debug\net8.0\FlighBooking.Application.AssemblyInfoInputs.cache
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlighBooking.Application\obj\Debug\net8.0\FlighBooking.Application.AssemblyInfo.cs
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlighBooking.Application\obj\Debug\net8.0\FlighBooking.Application.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlighBooking.Application\obj\Debug\net8.0\FlighBooking.Application.sourcelink.json
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlighBooking.Application\obj\Debug\net8.0\FlighBoo.927E7BA8.Up2Date
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlighBooking.Application\obj\Debug\net8.0\FlighBooking.Application.dll
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlighBooking.Application\obj\Debug\net8.0\refint\FlighBooking.Application.dll
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlighBooking.Application\obj\Debug\net8.0\FlighBooking.Application.pdb
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlighBooking.Application\obj\Debug\net8.0\ref\FlighBooking.Application.dll

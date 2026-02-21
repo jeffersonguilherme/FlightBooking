@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k/brV73tGR5oXNcArr4ciIwtKlMTq07MXmiltFeISGA=",
+  "Source": "FlighBooking.Api",
+  "BasePath": "_content/FlighBooking.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
