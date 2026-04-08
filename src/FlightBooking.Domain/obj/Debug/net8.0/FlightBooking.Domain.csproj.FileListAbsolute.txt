@@ -1,0 +1,11 @@
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Domain\bin\Debug\net8.0\FlightBooking.Domain.deps.json
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Domain\bin\Debug\net8.0\FlightBooking.Domain.dll
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Domain\bin\Debug\net8.0\FlightBooking.Domain.pdb
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Domain\obj\Debug\net8.0\FlightBooking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Domain\obj\Debug\net8.0\FlightBooking.Domain.AssemblyInfoInputs.cache
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Domain\obj\Debug\net8.0\FlightBooking.Domain.AssemblyInfo.cs
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Domain\obj\Debug\net8.0\FlightBooking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Domain\obj\Debug\net8.0\FlightBooking.Domain.dll
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Domain\obj\Debug\net8.0\refint\FlightBooking.Domain.dll
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Domain\obj\Debug\net8.0\FlightBooking.Domain.pdb
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Domain\obj\Debug\net8.0\ref\FlightBooking.Domain.dll

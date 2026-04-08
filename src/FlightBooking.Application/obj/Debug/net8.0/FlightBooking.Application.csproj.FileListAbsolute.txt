@@ -1,0 +1,15 @@
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Application\bin\Debug\net8.0\FlightBooking.Application.deps.json
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Application\bin\Debug\net8.0\FlightBooking.Application.dll
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Application\bin\Debug\net8.0\FlightBooking.Application.pdb
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Application\bin\Debug\net8.0\FlightBooking.Domain.dll
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Application\bin\Debug\net8.0\FlightBooking.Domain.pdb
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Application\obj\Debug\net8.0\FlightBooking.Application.csproj.AssemblyReference.cache
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Application\obj\Debug\net8.0\FlightBooking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Application\obj\Debug\net8.0\FlightBooking.Application.AssemblyInfoInputs.cache
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Application\obj\Debug\net8.0\FlightBooking.Application.AssemblyInfo.cs
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Application\obj\Debug\net8.0\FlightBooking.Application.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Application\obj\Debug\net8.0\FlightBo.CCBF2DF4.Up2Date
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Application\obj\Debug\net8.0\FlightBooking.Application.dll
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Application\obj\Debug\net8.0\refint\FlightBooking.Application.dll
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Application\obj\Debug\net8.0\FlightBooking.Application.pdb
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Application\obj\Debug\net8.0\ref\FlightBooking.Application.dll

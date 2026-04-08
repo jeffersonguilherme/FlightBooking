@@ -1,0 +1,17 @@
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Infrastructure\bin\Debug\net8.0\FlightBooking.Infrastructure.deps.json
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Infrastructure\bin\Debug\net8.0\FlightBooking.Infrastructure.dll
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Infrastructure\bin\Debug\net8.0\FlightBooking.Infrastructure.pdb
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Infrastructure\bin\Debug\net8.0\FlightBooking.Application.dll
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Infrastructure\bin\Debug\net8.0\FlightBooking.Domain.dll
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Infrastructure\bin\Debug\net8.0\FlightBooking.Application.pdb
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Infrastructure\bin\Debug\net8.0\FlightBooking.Domain.pdb
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Infrastructure\obj\Debug\net8.0\FlightBooking.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Infrastructure\obj\Debug\net8.0\FlightBooking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Infrastructure\obj\Debug\net8.0\FlightBooking.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Infrastructure\obj\Debug\net8.0\FlightBooking.Infrastructure.AssemblyInfo.cs
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Infrastructure\obj\Debug\net8.0\FlightBooking.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Infrastructure\obj\Debug\net8.0\FlightBo.7D782AD8.Up2Date
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Infrastructure\obj\Debug\net8.0\FlightBooking.Infrastructure.dll
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Infrastructure\obj\Debug\net8.0\refint\FlightBooking.Infrastructure.dll
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Infrastructure\obj\Debug\net8.0\FlightBooking.Infrastructure.pdb
+C:\Users\Jefferson\Documents\GitHub\FlightBooking\src\FlightBooking.Infrastructure\obj\Debug\net8.0\ref\FlightBooking.Infrastructure.dll
