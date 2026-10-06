@@ -1,4 +1,5 @@
 using FlightBooking.Domain.Enums;
+using FlightBooking.Domain.Exceptions;
 
 namespace FlightBooking.Domain.Entities;
 
@@ -55,52 +56,52 @@ public class Flight
         int seats)
     {
         if(string.IsNullOrWhiteSpace(origin))
-            throw new ArgumentException("The flight must contain a orige.");
+            throw new BusinessRuleException("The flight must contain a orige.");
 
         if(string.IsNullOrWhiteSpace(destination))
-            throw new ArgumentException("The flight must contain a destination.");
+            throw new BusinessRuleException("The flight must contain a destination.");
 
         if(departure == default)
-            throw new ArgumentException("The flight must have a departure date.");
+            throw new BusinessRuleException("The flight must have a departure date.");
 
         if (departure <= DateTimeOffset.UtcNow)
-            throw new ArgumentException("Departure must be in the future");
+            throw new BusinessRuleException("Departure must be in the future");
 
         if(arrival == default)
-            throw new ArgumentException("The flight must have an arrival date.");
+            throw new BusinessRuleException("The flight must have an arrival date.");
 
         if (seats > 1000)
-            throw new ArgumentException("Seats exceeds allowed limit");    
+            throw new BusinessRuleException("Seats exceeds allowed limit");    
 
         if (price > 100000)
-            throw new ArgumentException("Price is unrealistically high");
+            throw new BusinessRuleException("Price is unrealistically high");
         
         if(string.IsNullOrWhiteSpace(flightNumber))
-            throw new ArgumentException("Flight number is required");
+            throw new BusinessRuleException("Flight number is required");
 
         if(origin.Trim().ToLower() == destination.Trim().ToLower())
-            throw new ArgumentException("Origin and destination cannot be the same");
+            throw new BusinessRuleException("Origin and destination cannot be the same");
 
         if(arrival <= departure)
-            throw new ArgumentException("Arrival must be after departure");
+            throw new BusinessRuleException("Arrival must be after departure");
 
         if(price <= 0)
-            throw new ArgumentException("Price must be greater than zero");
+            throw new BusinessRuleException("Price must be greater than zero");
 
         if(seats <= 0)
-            throw new ArgumentException("Seats must be greater than zero");
+            throw new BusinessRuleException("Seats must be greater than zero");
     }
 
     public void ReserveSeat(int quantitySeats)
     {
-        if(AvailableSeats == 0)
-            throw new ArgumentException("Invalid quantity");
+        if(AvailableSeats <= 0)
+            throw new BusinessRuleException("Invalid quantity");
 
         if(Status == FlightStatus.Cancelled)
-            throw new InvalidOperationException("Flight is cancelled");
+            throw new BusinessRuleException("Flight is cancelled");
         
         if(quantitySeats > AvailableSeats)
-            throw new InvalidOperationException("Not enough seats");
+            throw new BusinessRuleException("Not enough seats");
 
         AvailableSeats -= quantitySeats;
     }

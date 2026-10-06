@@ -1,6 +1,5 @@
+using FlightBooking.Application.Common.Results;
 using FlightBooking.Application.DTOs.Flight;
-using FlightBooking.Application.Response;
-
 using MediatR;
 
 namespace FlightBooking.Application.Features.Commands.CreateFlight;
