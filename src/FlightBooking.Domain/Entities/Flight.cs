@@ -17,7 +17,7 @@ public class Flight
 
     private Flight(){}
 
-    public Flight(
+    public static Flight Create(
         string flightNumber,
         string origin,
         string destination,
@@ -28,20 +28,24 @@ public class Flight
     )
     {
         Validate(flightNumber, origin, destination, departureTime, arrivalTime, price, totalSeats);
-
-        Id = Guid.NewGuid();
-        FlightNumber = flightNumber;
-        Origin = origin;
-        Destination = destination;
-        DepartureTime = departureTime;
-        ArrivalTime = arrivalTime;
-        Price = price;
-        TotalSeats = totalSeats;
-        AvailableSeats = totalSeats;
-        Status = FlightStatus.Scheduled;
+            
+            var flight = new Flight
+            {                
+            Id = Guid.NewGuid(),
+            FlightNumber = flightNumber,
+            Origin = origin,
+            Destination = destination,
+            DepartureTime = departureTime,
+            ArrivalTime = arrivalTime,
+            Price = price,
+            TotalSeats = totalSeats,
+            AvailableSeats = totalSeats,
+            Status = FlightStatus.Scheduled,
+            };
+            return flight;
     }
 
-    private void Validate(
+    private static void Validate(
         string flightNumber,
         string origin, 
         string destination,
@@ -114,11 +118,6 @@ public class Flight
 
     public bool HasAvailableSeats(int quantitySeats)
     {
-        if(Status == FlightStatus.Cancelled)
-            throw new Exception("Cancelled flight");
-
-        if(AvailableSeats + quantitySeats > TotalSeats)
-            throw new Exception("Cannot exceed total seats");
 
         if(quantitySeats > AvailableSeats)
             return false;
@@ -126,7 +125,7 @@ public class Flight
         return true;
     }
 
-    public void CanceldFlight()
+    public void CancelFlight()
     {
         if(Status == FlightStatus.Cancelled)
             throw new Exception("Cancelled flight");

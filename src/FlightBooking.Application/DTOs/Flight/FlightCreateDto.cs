@@ -11,7 +11,5 @@ public class FlightCreateDto
     public DateTimeOffset ArrivalTime { get;  set; }
     public decimal Price { get;  set; }
     public int TotalSeats { get;  set; }
-    public FlightStatus Status { get; set; }
-
 
 }
