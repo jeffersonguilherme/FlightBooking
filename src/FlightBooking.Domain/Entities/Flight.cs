@@ -41,7 +41,7 @@ public class Flight
         Status = FlightStatus.Scheduled;
     }
 
-    private void Validate(
+    private static void Validate(
         string flightNumber,
         string origin, 
         string destination,
@@ -114,19 +114,13 @@ public class Flight
 
     public bool HasAvailableSeats(int quantitySeats)
     {
-        if(Status == FlightStatus.Cancelled)
-            throw new Exception("Cancelled flight");
-
-        if(AvailableSeats + quantitySeats > TotalSeats)
-            throw new Exception("Cannot exceed total seats");
-
         if(quantitySeats > AvailableSeats)
             return false;
         
         return true;
     }
 
-    public void CanceldFlight()
+    public void CancelFlight()
     {
         if(Status == FlightStatus.Cancelled)
             throw new Exception("Cancelled flight");

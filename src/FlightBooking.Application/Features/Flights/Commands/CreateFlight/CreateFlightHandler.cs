@@ -4,7 +4,7 @@ using FlightBooking.Domain.Repositories;
 using FlightBooking.Domain.Response;
 using MediatR;
 
-namespace FlightBooking.Application.Features.Commands.CreateFlight;
+namespace FlightBooking.Application.Features.Flights.Commands.CreateFlight;
 
 public class CreateFlightHandler : IRequestHandler<CreateFlightCommand, ResponseModel<FlightResponseDto>>
 {
